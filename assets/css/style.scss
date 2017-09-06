@@ -1,8 +1,7 @@
 ----
 ----
 
--@import "normalize";
--@import "rouge-github";
+-@import "{{ site.theme }}";
 
 /* LAYOUT STYLES */
 body {
