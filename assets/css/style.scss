@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
+header a.button {
+   background: transparent url(../images/ASC-logo-transparent.gif) 0 0 no-repeat;
+}
