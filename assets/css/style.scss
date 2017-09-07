@@ -3,7 +3,12 @@
 
 @import "{{ site.theme }}";
 
+header {
+  padding-top: 37px;
+  padding-bottom: 10px;
+}
+
 header h1 {
   width: auto;
-  color: red;
+  font-size: 64px;
 }
