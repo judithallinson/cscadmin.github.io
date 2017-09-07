@@ -14,23 +14,32 @@ header h1 {
 }
 
 header h2 {
-  display: inline;
-  float: left;
-  clear: none;
+  display: inline-block;
 }
 
-header h3 {
-  display: inline;
-  float: right;
-  clear: none;
+header a h3 {
+  display: inline-block;
   border: 2px solid #9ddcff;
   background-color: white;
   border-radius: 5px;
   color: #9ddcff;
   margin-left: 0.5em;
   margin-right: 0.5em;
+  margin-top: 0;
+  margin-bottom: 0;
   padding-left: 0.25em;
   padding-right: 0.25em;
+}
+
+header a:active h3,
+header a:hover h3 {
+  background-color: #9ddcff;
+  color: white;
+  border: 2px solid white;
+}
+
+aside h2 {
+  font-family: "Architects Daughter","Helvetica Neue",Helvetica,Arial,serif;
 }
 
 iframe {
