@@ -13,6 +13,17 @@ header h1 {
   font-size: 64px;
 }
 
+header h3 {
+  display: inline;
+  float: right;
+  border: 2px solid #9ddcff;
+  background-color: white;
+  border-radius: 5px;
+  color: #9ddcff;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}
+
 iframe {
   display: inline;
 }
