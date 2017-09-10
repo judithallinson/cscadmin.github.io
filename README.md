@@ -24,4 +24,4 @@ _better_ **presenters** and _better_ **leaders**.
 
 ## More Info
 
-Interested in how it all works? [full details here...](/info.html)
+Interested in how our meetings work? [full details here...](/info.html)
