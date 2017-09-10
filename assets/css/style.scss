@@ -20,10 +20,10 @@ header h2 {
 
 header a h3 {
   display: inline-block;
-  border: 2px solid #9ddcff;
-  background-color: white;
+  border: 2px solid white;
+  background-color: #9ddcff;
   border-radius: 5px;
-  color: #9ddcff;
+  color: white;
   margin-left: 0.3em;
   margin-right: 0.3em;
   margin-top: 0;
@@ -34,9 +34,9 @@ header a h3 {
 
 header a:active h3,
 header a:hover h3 {
-  background-color: #9ddcff;
-  color: white;
-  border: 2px solid white;
+  background-color: white;
+  color: #9ddcff;
+  border: 2px solid #9ddcff;
 }
 
 aside h2 {
@@ -49,6 +49,19 @@ iframe {
 
 .showable {
   display: none;
+}
+
+#content-wrapper {
+  padding-top: 20px;
+}
+
+aside h2 {
+    margin-bottom: 8px;
+    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+    font-size: 22px;
+    font-weight: bold;
+    color: #474747;
+    text-indent: 4px;
 }
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
@@ -110,8 +123,9 @@ iframe {
   }
 
   aside#sidebar a.button {
-    display: auto;
+    display: inline-block !important;
   }
+
   #content-wrapper {
     padding-top: 10px;
   }
