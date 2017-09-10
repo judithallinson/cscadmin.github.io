@@ -47,6 +47,10 @@ iframe {
   display: inline;
 }
 
+.showable {
+  display: none;
+}
+
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media only screen and (min-width: 768px) and (max-width: 959px) {
   .inner {
@@ -108,5 +112,7 @@ iframe {
   aside#sidebar a.button {
     display: auto;
   }
-
+  .showable {
+    display: inline;
+  }
 }
