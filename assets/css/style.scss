@@ -112,7 +112,11 @@ iframe {
   aside#sidebar a.button {
     display: auto;
   }
+  #content-wrapper {
+    padding-top: 10px;
+  }
   .showable {
-    display: inline;
+    display: block;
+	font-weight: bold;
   }
 }
