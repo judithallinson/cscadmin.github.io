@@ -27,7 +27,7 @@ header a h3 {
   margin-left: 0.3em;
   margin-right: 0.3em;
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 0.3em;
   padding-left: 0.3em;
   padding-right: 0.3em;
 }
@@ -72,16 +72,18 @@ iframe {
     width: 93%;
   }
   header {
-    padding: 20px 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
   }
   header .inner {
     position: relative;
   }
   header h1, header h2 {
     width: auto;
+	display: inline;
   }
   header h1 {
-    font-size: 36px;
+    font-size: 40px;
   }
   header h1 .hidable,
   header h2 {
