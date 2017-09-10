@@ -81,6 +81,21 @@ aside h2 {
   #main-content {
     width: 100%;
   }
+  #main-content,
+  aside#sidebar {
+    float: none;
+    width: 100% ! important;
+  }
+  aside#sidebar {
+    min-height: 0;
+    padding: 20px 0;
+    margin-top: 20px;
+    background-image: none;
+    border-top: solid 1px #ddd;
+  }
+  aside#sidebar a.button {
+    display: inline-block !important;
+  }
 }
 
 /* All Mobile Sizes (devices and browser) */
@@ -121,11 +136,9 @@ aside h2 {
     background-image: none;
     border-top: solid 1px #ddd;
   }
-
   aside#sidebar a.button {
     display: inline-block !important;
   }
-
   #content-wrapper {
     padding-top: 10px;
   }
