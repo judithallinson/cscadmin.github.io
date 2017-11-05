@@ -39,10 +39,6 @@ header a:hover h3 {
   border: 2px solid #9ddcff;
 }
 
-aside h2 {
-  font-family: "Architects Daughter","Helvetica Neue",Helvetica,Arial,serif;
-}
-
 iframe {
   display: inline;
 }
@@ -53,6 +49,16 @@ iframe {
 
 #content-wrapper {
   padding-top: 20px;
+}
+
+th {
+  font-weight: 800;
+  text-align: center;
+}
+
+td, th {
+  border: 1px solid #ebebeb;
+  padding: 0.5em;
 }
 
 aside h2 {
