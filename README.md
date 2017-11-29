@@ -1,7 +1,7 @@
 
 <p>
-  <img src="/assets/images/members.png">
-  <iframe src="https://player.vimeo.com/video/182210488" frameborder="0" allowfullscreen="1"></iframe>
+  <img src="/assets/images/members.jpg">
+  <img src="/assets/images/members2.jpg">
   <span class="showable">You too can speak with confidence!</span>
 </p>
 

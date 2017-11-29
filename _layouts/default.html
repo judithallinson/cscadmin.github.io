@@ -22,10 +22,11 @@
           <h1>Craven Speakers Club<span class="hidable"> - Skipton</span></h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-		<a href="/events.html"><h3> 2017 Dates </h3></a>
-		<a href="/contact.html"><h3> Contact </h3></a>
-		<a href="/blog2017.html"><h3> Blog </h3></a>
-		<a href="/moreinfo.html"><h3> More Info </h3></a>
+		    <a href="/index.html"><h3> Home </h3></a>
+        <a href="/events.html"><h3> 2017 Dates </h3></a>
+		    <a href="/contact.html"><h3> Contact </h3></a>
+		    <a href="/blog2017.html"><h3> Blog </h3></a>
+		    <a href="/moreinfo.html"><h3> About </h3></a>
       </div>
     </header>
 
@@ -37,14 +38,15 @@
 
         <aside id="sidebar">
 
-		      <h2> Blog </h2>
+          <h2>Next meeting</h2>
 
-          <a href="/blog2017.html" class="button">
-            Crafters Unite!
+          <a href="/events.html" class="button">
+            {% include_relative nextMeeting.md %}
           </a>
-          <a href="/blog2017.html" class="button">
-            2017 Topics Champions
-          </a>
+
+		      <h2> Blog </h2>
+           
+          {% include_relative blogLinks.md %}
 
         </aside>
       </div>

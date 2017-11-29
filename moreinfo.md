@@ -1,6 +1,6 @@
 ## About Speakers Clubs
 
-The club is a member of the Association of Speakers Clubs, which co-ordinates the activities of around 140 speakers clubs in the UK.
+The club is a member of the Association of Speakers Clubs, which co-ordinates the activities of just over 100 speakers clubs in the UK.
 
 Much of the text on this page has been borrowed/adapted - from our excellent neighbouring club, Wharfedale Speakers Club
 
