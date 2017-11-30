@@ -9,7 +9,7 @@
 | Mon 20 Nov 2017 - 8pm | Skipton           | Club night - Are You Ready?                |
 | Sat 25 Nov 2017 - 8pm | Leeds - Cookridge | Area Competition                           |
 | Mon 04 Dec 2017 - 8pm | Skipton           | Joint Meeting with Bradford & Wharfedale   |
-| Mon 18 Dec 2017 - 8pm | Skipton           | Club night - Christmas Special!            |
+| Mon 18 Dec 2017 - 8pm | Skipton           | Topics Competition & Christmas Special!    |
 
 ## Meetings and Events - 2018 
 
