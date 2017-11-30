@@ -1,3 +1,7 @@
+<a href="/blog2017.html#4-dec-2017" class="button">
+    Joint Meeting
+</a>
+
 <a href="/blog2017.html#5-oct-2017---speakers-and-craft-workers-unite" class="button">
     Crafters Unite!
 </a>
