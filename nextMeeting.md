@@ -1,1 +1,2 @@
-January 29th, 2018
+February 3rd - Competition at Cross Hills
+February 12th 2018 - at Skipton
