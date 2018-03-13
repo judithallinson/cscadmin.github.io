@@ -1,3 +1,7 @@
+<a href="/blog2018.html#6-feb-2018" class="button">
+    Area Champions!
+</a>
+
 <a href="/blog2018.html#4-dec-2017" class="button">
     Joint Meeting
 </a>
