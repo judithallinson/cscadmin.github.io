@@ -1,3 +1,7 @@
+<a href="/blog2018.html#2-jun-2018" class="button">
+    Summer Break..
+</a>
+
 <a href="/blog2018.html#6-feb-2018" class="button">
     Area Champions!
 </a>
