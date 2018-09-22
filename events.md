@@ -2,7 +2,7 @@
 **The Soroptimist Rooms, 28 Otley St, Skipton, BD23 1EW**
 
 
-## Meetings and Events - Autumn 2018 
+## Meetings and Events - Autumn 2018 - Note New Start-Time of 7.30pm
 
 | Date / Time           | Location          | Details                                    |
 |:--------------------- |:----------------- |:------------------------------------------ |
