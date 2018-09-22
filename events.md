@@ -6,14 +6,14 @@
 
 | Date / Time           | Location          | Details                                    |
 |:--------------------- |:----------------- |:------------------------------------------ |
-| Mon 10 Sep 2018 - 8pm | Skipton           | Club night - Speeches and Topics           |
-| Mon 24 Sep 2018 - 8pm | Skipton           | Club night - Speeches and Topics           |
-| Mon 08 Oct 2018 - 8pm | Skipton           | Club night - Speeches and Topics           |
-| Mon 22 Oct 2018 - 8pm | Skipton           | Club night - Speeches and Topics           |
-| Mon 05 Nov 2018 - 8pm | Skipton           | Club night - Speeches and Topics           |
-| Mon 19 Nov 2018 - 8pm | Skipton           | Club night - Speeches and Topics           |
-| Mon 03 Dec 2018 - 8pm | Skipton           | Club night - Speeches and Topics           |
-| Mon 17 Dec 2018 - 8pm | Skipton           | Club night - Speeches and Topics           |
+| Mon 10 Sep 2018 - 7.30pm | Skipton           | Club night - Speeches and Topics           |
+| Mon 24 Sep 2018 - 7.30pm | Skipton           | Club night - Speeches and Topics           |
+| Mon 08 Oct 2018 - 7.30pm | Skipton           | Club night - Speeches and Topics           |
+| Mon 22 Oct 2018 - 7.30pm | Skipton           | Club night - Speeches and Topics           |
+| Mon 05 Nov 2018 - 7.30pm | Skipton           | Club night - Speeches and Topics           |
+| Mon 19 Nov 2018 - 7.30pm | Skipton           | Club night - Speeches and Topics           |
+| Mon 03 Dec 2018 - 7.30pm | Skipton           | Club night - Speeches and Topics           |
+| Mon 17 Dec 2018 - 7.30pm | Skipton           | Club night - Speeches and Topics           |
 
 
 ## Past Meetings and Events - Spring / Summer 2018  
