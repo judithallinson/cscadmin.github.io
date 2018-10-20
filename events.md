@@ -17,6 +17,7 @@
 |                          | BD17 6NH          |                                           |
 | Mon 17 Dec 2018 - 7.30pm | Skipton           | Club night - Christmas Special             |
 
+## Meetings and Events - Spring 2019|
 
 | Mon 14 Jan 2019 - 7.30pm | Skipton           | Club night - Speeches and Topics           |
 | Mon 28 Jan 2019 - 7.30pm | Skipton           | Club night - Speeches and Topics           |
