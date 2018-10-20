@@ -16,6 +16,9 @@
 | Sat 08 Dec 2018 - 1.00pm | Baildon Old Hall, | Dales Area Competition                     |
 |                          | BD17 6NH          |                                           |
 | Mon 17 Dec 2018 - 7.30pm | Skipton           | Club night - Christmas Special             |
+
+##  Meetings and Events - Spring / Summer 2019 
+
 | Mon 14 Jan 2019 - 7.30pm | Skipton           | Club night - Speeches and Topics           |
 | Mon 28 Jan 2019 - 7.30pm | Skipton           | Club night - Speeches and Topics           |
 | Mon 14 Jan 2019 - 7.30pm | Skipton           | Club night - Speeches and Topics           |
